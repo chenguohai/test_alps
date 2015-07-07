@@ -1,2 +1,3 @@
 Enter file contents here
-i am doc
+he am doc
+now i am doc
